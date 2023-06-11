@@ -94,7 +94,7 @@ those directories and map those resources to the respective identifier.
 `fluent-templates` will recurse through each language directory as needed
 and will respect any `.gitignore` or `.ignore` files present.
 
-[uli]: https://docs.rs/unic-langid/0.9.0/unic_langid/
+[uli]: https://docs.rs/unic-langid/latest/unic_langid/
 
 ### Example Layout
 ```text
@@ -289,9 +289,9 @@ static_loader! {
 ```
 
 [variables]: https://projectfluent.org/fluent/guide/variables.html
-[`static_loader!`]: https://docs.rs/fluent-templates/0.5.4/fluent_templates/macro.static_loader.html
-[`StaticLoader`]: https://docs.rs/fluent-templates/0.5.4/fluent_templates/struct.StaticLoader.html
-[`ArcLoader`]: https://docs.rs/fluent-templates/0.5.4/fluent_templates/struct.ArcLoader.html
-[`Loader`]: https://docs.rs/fluent-templates/0.5.4/fluent_templates/trait.Loader.html
-[`handlebars::Context`]: https://docs.rs/handlebars/3.1.0/handlebars/struct.Context.html
+[`static_loader!`]: https://docs.rs/fluent-templates/latest/fluent_templates/macro.static_loader.html
+[`StaticLoader`]: https://docs.rs/fluent-templates/latest/fluent_templates/struct.StaticLoader.html
+[`ArcLoader`]: https://docs.rs/fluent-templates/latest/fluent_templates/struct.ArcLoader.html
+[`Loader`]: https://docs.rs/fluent-templates/latest/fluent_templates/trait.Loader.html
+[`handlebars::Context`]: https://docs.rs/handlebars/latest/handlebars/struct.Context.html
 [fluent]: https://projectfluent.org
